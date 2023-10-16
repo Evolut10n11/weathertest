@@ -1,0 +1,64 @@
+.container{
+    display: flex;
+    margin-left: 550px;
+}
+
+.box{
+    width: 175px;
+    height: 250px;
+    background-color: transparent;
+    border: 5px solid hwb(241 46% 27%);
+    border-radius: 20px;
+    margin-top: 300px;
+    margin-left: 75px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+p{
+    font-family: "Monsterrat", sans-serif;
+}
+
+hr{
+    margin-top: -5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+body{
+    text-align: center;
+    
+}
+
+.features li {
+    display: inline-block;
+    list-style: none;
+    margin-right: 55px; 
+}
+
+.features img {
+    vertical-align: middle;
+}
+
+.features ul {
+    padding: 0;
+    margin: 0;
+}
+
+.features1 li {
+    display: inline-block;
+    list-style: none;
+    margin-right: 55px; 
+}
+
+.features1 img {
+    vertical-align: middle;
+}
+
+.features1 ul {
+    padding: 0;
+    margin: 0;
+}
+
+
+
