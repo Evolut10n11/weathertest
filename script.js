@@ -68,3 +68,6 @@ fetch('http://api.openweathermap.org/data/2.5/weather?id=524894&appid=0d7addee4d
     }
     
     document.querySelector('.b-1').onclick = f1;
+
+
+    // чтобы искало не только Русские города, надо или по ip\делать кнопку для выбора региона и потом так же через q=${value},${cuntry}
